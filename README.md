@@ -2,8 +2,8 @@
 
 ## Steps
 
-- git clone <repo>
-- cd <directory>
+- git clone %repo%
+- cd %directory%
 - npm i
 - npm run dev (development mode)
 - npm run build & npm run start (production mode)
